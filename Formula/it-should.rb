@@ -1,10 +1,10 @@
 class ItShould < Formula
   desc "Turn a plain-English request into one approved shell command"
   homepage "https://github.com/dowhilelabs/it-should"
-  version "0.1.0"
+  version "0.2.0"
   url "https://github.com/dowhilelabs/it-should/releases/download/v0.1.0/it-aarch64-apple-darwin.tar.gz"
   # SHA-256 of it-aarch64-apple-darwin.tar.gz (v0.1.0 release).
-  sha256 "d72b7e4a42bec6ef28a4a209ef7cf3b75aca395377eec77437d92ce9ab117ea7"
+  sha256 "82e9ce80dbfc878990a8ce8b15d373c2c95b5b8833cb494d938c9e6c672547a4"
 
   depends_on :macos
 
