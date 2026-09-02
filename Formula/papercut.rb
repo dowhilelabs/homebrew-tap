@@ -1,10 +1,10 @@
 class Papercut < Formula
   desc "A tiny CLI that gives AI agents a complaint box."
   homepage "https://github.com/dowhilelabs/papercut"
-  version "0.1.8"
-  url "https://github.com/dowhilelabs/papercut/releases/download/v0.1.8/papercut-aarch64-apple-darwin.tar.gz"
-  # SHA-256 of papercut-aarch64-apple-darwin.tar.gz (v0.1.8 release).
-  sha256 "36face05a4d0f6f74624c6476ed4a2b09c196574ea211c5cc57feba78cc816ca"
+  version "0.1.9"
+  url "https://github.com/dowhilelabs/papercut/releases/download/v0.1.9/papercut-aarch64-apple-darwin.tar.gz"
+  # SHA-256 of papercut-aarch64-apple-darwin.tar.gz (v0.1.9 release).
+  sha256 "461b8c1aacd229a42a83d1feccdaa061b08f33824537d5f024255ae0c8bc3d7e"
 
   depends_on :macos
 
